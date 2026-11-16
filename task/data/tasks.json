@@ -1,0 +1,17 @@
+[
+    {
+        "text": "Preparar la presentación",
+        "category": "Trabajo",
+        "completed": false
+    },
+    {
+        "text": "Comprar ingredientes para la cena",
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "text": "Enviar el informe semanal",
+        "category": "Trabajo",
+        "completed": false
+    }
+]

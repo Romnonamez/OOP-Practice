@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ana García",
+        "position": "Desarrolladora frontend",
+        "department": "Desarrollo",
+        "availability": "Disponible"
+    },
+    {
+        "name": "Luis Martínez",
+        "position": "Diseñador UX",
+        "department": "Diseño",
+        "availability": "No disponible"
+    },
+    {
+        "name": "Sofía López",
+        "position": "Desarrolladora backend",
+        "department": "Desarrollo",
+        "availability": "Disponible"
+    },
+    {
+        "name": "Carlos Ruiz",
+        "position": "Diseñador visual",
+        "department": "Diseño",
+        "availability": "Disponible"
+    }
+]
