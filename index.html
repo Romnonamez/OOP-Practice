@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Películas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2rem;
+        }
+
+        #movie-holder {
+            display: grid;
+            gap: 1rem;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        }
+
+        .movie-card {
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            padding: 1rem;
+        }
+
+        .movie-card--high-rating {
+            border: 3px solid #d4a017;
+        }
+
+        .movie-card__badge {
+            color: #8a6500;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Películas</h1>
+        <div id="movie-holder"></div>
+    </main>
+    <script type="module" src="scripts/app.js"></script>
+</body>
+</html>

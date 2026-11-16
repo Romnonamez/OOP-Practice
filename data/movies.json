@@ -1,0 +1,20 @@
+[
+    {
+        "title": "El padrino",
+        "director": "Francis Ford Coppola",
+        "year": 1972,
+        "rating": 9
+    },
+    {
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "year": 2014,
+        "rating": 8
+    },
+    {
+        "title": "Shrek",
+        "director": "Andrew Adamson y Vicky Jenson",
+        "year": 2001,
+        "rating": 7
+    }
+]
